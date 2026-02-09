@@ -5,4 +5,4 @@
 - 🌱 学習中: **[HTML.CSS.JS]**
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kujira-wak&show_icons=true&theme=default)
+[![GitHub Followers](https://img.shields.io/github/followers/kujira-wak?label=Followers&style=social)](https://github.com/kujira-wak)
